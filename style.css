@@ -1,3 +1,4 @@
+body{
 .parte1{
     background-color: rgba(0, 0, 255, 0.438);
     color:#000000f0
@@ -12,4 +13,6 @@
 .parte2{
    background-color: rgba(255, 0, 0, 0.215);
     color:#000000f0  
+
+}
 }
