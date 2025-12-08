@@ -1,16 +1,15 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Playwrite+US+Trad+Guides&family=Rubik+Wet+Paint&family=Sixtyfour+Convergence&display=swap');
-
-:root{
-    ---cor-de-fundo:#762828;
-    ---cor-da-fonte:#abb81ff4;
-
+.parte1{
+    background-color: rgba(0, 0, 255, 0.438);
+    color:#000000f0
 }
 
-body{
+.titulo-principal{
+    text-align: center;
+    color:rgb(17, 248, 248);
+    size: 18px;
+}
 
-    background-color: var(---cor-de-fundo);
-    color:var(---cor-da-fonte);
-    text-align: justify;
-
+.parte2{
+   background-color: rgba(255, 0, 0, 0.215);
+    color:#000000f0  
 }
